@@ -1,4 +1,4 @@
 local-v2
 local-v1
 local-v4-sub
-merge A 2
+merge A resolved
